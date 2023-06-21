@@ -1,6 +1,6 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfh7ahrev7_-txqru1CpwHvYGQdEpRj_otd1tYpvcRwFvqXfECoQU86tS0vcgspVREU8r2EqjEwsrCFljUygzqErv4rTSJ_te88WUZH1k9TCPb7ECQ4a2gxmM5A5xnBW8UQarRGWPapsR122izCLapnMXI6H4z40uVH9XMWc6gF5RxMvAr9D2ve_GRi1g/s2000/WEB%20DEVELOPER.gif)](https://www.facebook.com/bayezid3600)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.facebook.combayezid3600)
 <h1 align="center">Hi 👋, I'm S M Bayezid Arefin</h1>
-<h3 align="center">A passionate web developer and certified ethical hacker</h3>
+<h3 align="center">A passionate Web Developer and Certified Ethical Hacker</h3>
 <img align="right" alt="Coding" width="400" src="https://hackernoon.imgix.net/hn-images/1*6XX4DHE0HSHrGjiLFxmigQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an0n9m0us&label=Profile%20views&color=0e75b6&style=flat" alt="an0n9m0us" /> </p>
