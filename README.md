@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]<a href="(https://www.facebook.com/bayezid3600)target="_blank">
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.facebook.com/bayezid3600)
 <h1 align="center">Hi 👋, I'm S M Bayezid Arefin</h1>
 <h3 align="center">A passionate Web Developer and Certified Ethical Hacker</h3>
 <img align="right" alt="Coding" width="400" src="https://hackernoon.imgix.net/hn-images/1*6XX4DHE0HSHrGjiLFxmigQ.gif">
